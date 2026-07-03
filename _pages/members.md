@@ -240,7 +240,7 @@ nav_order: 2
           <a href="https://sites.google.com/view/thequynhqb/home" target="_blank">Quynh Nguyen</a>
         </div>
         <div class="person-affiliation">
-          QSE PhD (2022–2026), now a postdoc at the Simons Institute, UC Berkeley.
+          QSE PhD (2022–2026), <i>now a postdoc at the Simons Institute, UC Berkeley.</i>
         </div>
       </div>
 
@@ -252,19 +252,19 @@ nav_order: 2
           <a href="https://georgeycliu.github.io/" target="_blank">Yunchao Liu</a>
         </div>
         <div class="person-affiliation">
-          HQI Postdoctoral Fellow (2024–2025), now a research scientist at IBM Research.
+          HQI Postdoctoral Fellow (2024–2025), <i>now a research scientist at IBM Research.</i>
         </div>
       </div>
 
       <div class="person-card">
         <a href="https://sites.google.com/view/jonas-haferkamp/home" target="_blank">
-          <img src="/assets/img/people/none.jpg" alt="Jonas Haferkamp">
+          <img src="/assets/img/people/jonas.jpg" alt="Jonas Haferkamp">
         </a>
         <div class="person-name">
           <a href="https://sites.google.com/view/jonas-haferkamp/home" target="_blank">Jonas Haferkamp</a>
         </div>
         <div class="person-affiliation">
-          HQI Postdoctoral Fellow (2023–2025), now an associate professor at Ruhr University Bochum.
+          HQI Postdoctoral Fellow (2023–2025), <i>now an associate professor at Ruhr University Bochum.</i>
         </div>
       </div>
 
@@ -276,7 +276,7 @@ nav_order: 2
           <a href="https://sites.google.com/view/yihui-quek/" target="_blank">Yihui Quek</a>
         </div>
         <div class="person-affiliation">
-          HQI Postdoctoral Fellow (2022–2024), now an assistant professor at EPFL.
+          HQI Postdoctoral Fellow (2022–2024), <i>now an assistant professor at EPFL.</i>
         </div>
       </div>
     
