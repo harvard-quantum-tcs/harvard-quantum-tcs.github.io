@@ -179,7 +179,7 @@ We host a weekly seminar on theoretical aspects of quantum science, bringing tog
         <td>TBD</td>
         <td>
             <a href="https://www.cst.cam.ac.uk/people/tg508" target="_blank">Tom Gur</a>
-            <span class="speaker-affiliation">University of Cambridge</span>
+            <span class="speaker-affiliation">Cambridge</span>
         </td>
         <td>TBA</td>
         </tr>
@@ -244,7 +244,7 @@ We host a weekly seminar on theoretical aspects of quantum science, bringing tog
             <a href="https://scholar.google.com/citations?user=2-HjK9IAAAAJ&hl=en" target="_blank">Andrew Huang</a>
             <span class="speaker-affiliation">MIT</span>
         </td>
-        <td>Separating Quantum and Classical Advice with Good Codes</td>
+        <td>Separating quantum and classical advice with good codes</td>
         </tr>
 
         <tr>
@@ -299,7 +299,7 @@ We host a weekly seminar on theoretical aspects of quantum science, bringing tog
             <a href="https://scholar.google.com/citations?user=lMmwI0cAAAAJ&hl=en" target="_blank">Jonathan Lu</a>
             <span class="speaker-affiliation">MIT</span>
         </td>
-        <td> Average-Case Complexity of Quantum Stabilizer Decoding </td>
+        <td> Average-case complexity of quantum stabilizer decoding </td>
         </tr>
 
         <tr>
@@ -431,27 +431,6 @@ We host a weekly seminar on theoretical aspects of quantum science, bringing tog
 </div>
 </details>
 
-<details class="semester-block">
-<summary>Spring 2025</summary>
-<div class="seminar-table-wrapper">
-    <table class="seminar-table">
-    <thead>
-        <tr>
-        <th>Date</th>
-        <th>Time</th>
-        <th>Speaker</th>
-        <th>Title</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-        <td colspan="4" class="empty-row">Seminar schedule coming soon.</td>
-        </tr>
-    </tbody>
-    </table>
-</div>
-</details>
-
 
 <details class="semester-block">
 <summary>Fall 2024</summary>
@@ -461,39 +440,94 @@ We host a weekly seminar on theoretical aspects of quantum science, bringing tog
         <tr>
         <th>Date</th>
         <th>Time</th>
+        <th>Place</th>
         <th>Speaker</th>
         <th>Title</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-        <td colspan="4" class="empty-row">Seminar schedule coming soon.</td>
+        <td>Nov. 7, 2024</td>
+        <td>4:00 PM</td>
+        <td>Ory Forum</td>
+        <td>
+            <a href="https://scholar.google.com/citations?user=j_GVklEAAAAJ&hl=en" target="_blank">Ting-Chun Lin</a>
+            <span class="speaker-affiliation">UC San Diego</span>
+        </td>
+        <td> - </td>
         </tr>
+
+        <tr>
+        <td>Oct. 31, 2024</td>
+        <td>4:00 PM</td>
+        <td>Ory Forum</td>
+        <td>
+            <a href="https://lgolowich.github.io/" target="_blank">Louis Golowich</a>
+            <span class="speaker-affiliation">UC Berkeley</span>
+        </td>
+        <td> - </td>
+        </tr>
+
+        <tr>
+        <td>Oct. 17, 2024</td>
+        <td>4:00 PM</td>
+        <td>Ory Forum</td>
+        <td>
+            <a href="https://www.aineshbakshi.com/" target="_blank">Ainesh Bakshi</a>
+            <span class="speaker-affiliation">MIT</span>
+        </td>
+        <td> - </td>
+        </tr>
+
+        <tr>
+        <td>Oct. 10, 2024</td>
+        <td>4:00 PM</td>
+        <td>Ory Forum</td>
+        <td>
+            <a href="https://sisi-zhou.github.io/" target="_blank">Sisi Zhou</a>
+            <span class="speaker-affiliation">Perimeter</span>
+        </td>
+        <td> - </td>
+        </tr>
+
+        <tr>
+        <td>Oct. 3, 2024</td>
+        <td>4:30 PM</td>
+        <td>Jefferson 250</td>
+        <td>
+            <a href="https://www.mit.edu/~aram/" target="_blank">Aram Harrow</a>
+            <span class="speaker-affiliation">MIT</span>
+        </td>
+        <td> Randomized truncation </td>
+        </tr>
+
+        <tr>
+        <td>Sep. 26, 2024</td>
+        <td>4:00 PM</td>
+        <td>Ory Forum</td>
+        <td>
+            <a href="https://scholar.google.com/citations?user=6QcU96MAAAAJ&hl=en" target="_blank">Jonathan Conrad</a>
+            <span class="speaker-affiliation">FU Berlin</span>
+        </td>
+        <td> Decoding, uncomputing and cryptography from GKP codes </td>
+        </tr>
+
+        <tr>
+        <td>Aug. 15, 2024</td>
+        <td>4:00 PM</td>
+        <td>Ory Forum</td>
+        <td>
+            <a href="https://simons.berkeley.edu/people/thiago-bergamaschi" target="_blank">Thiago Bergamaschi</a>
+            <span class="speaker-affiliation">UC Berkeley</span>
+        </td>
+        <td> Quantum computational advantage with constant-temperature Gibbs sampling </td>
+        </tr>
+        
     </tbody>
     </table>
 </div>
 </details>
 
-<details class="semester-block">
-<summary>Spring 2024</summary>
-<div class="seminar-table-wrapper">
-    <table class="seminar-table">
-    <thead>
-        <tr>
-        <th>Date</th>
-        <th>Time</th>
-        <th>Speaker</th>
-        <th>Title</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-        <td colspan="4" class="empty-row">Seminar schedule coming soon.</td>
-        </tr>
-    </tbody>
-    </table>
-</div>
-</details>
 
 <details class="semester-block">
 <summary>Fall 2023</summary>
@@ -503,13 +537,54 @@ We host a weekly seminar on theoretical aspects of quantum science, bringing tog
         <tr>
         <th>Date</th>
         <th>Time</th>
+        <th>Place</th>
         <th>Speaker</th>
         <th>Title</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-        <td colspan="4" class="empty-row">Seminar schedule coming soon.</td>
+        <td>Nov. 30, 2023</td>
+        <td>4:00 PM</td>
+        <td>Jefferson 250</td>
+        <td>
+            <a href="https://research-information.bris.ac.uk/en/persons/nikolas-p-breuckmann" target="_blank">Nikolas Breuckmann</a>
+            <span class="speaker-affiliation">Bristol</span>
+        </td>
+        <td> Quantum codes </td>
+        </tr>
+
+        <tr>
+        <td>Nov. 16, 2023</td>
+        <td>4:00 PM</td>
+        <td>Jefferson 250</td>
+        <td>
+            <a href="https://ewintang.com/" target="_blank">Ewin Tang</a>
+            <span class="speaker-affiliation">UC Berkeley</span>
+        </td>
+        <td> Learning quantum Hamiltonians at any temperature in polynomial time </td>
+        </tr>
+
+        <tr>
+        <td>Oct. 26, 2023</td>
+        <td>4:00 PM</td>
+        <td>Jefferson 250</td>
+        <td>
+            <a href="https://pme.uchicago.edu/directory/liang-jiang" target="_blank">Liang Jiang</a>
+            <span class="speaker-affiliation">Chicago</span>
+        </td>
+        <td> Co-designed quantum error correction </td>
+        </tr>
+
+        <tr>
+        <td>Sep. 14, 2023</td>
+        <td>4:00 PM</td>
+        <td>Jefferson 250</td>
+        <td>
+            <a href="https://physics.dartmouth.edu/people/james-daniel-whitfield" target="_blank">James Daniel Whitfield</a>
+            <span class="speaker-affiliation">Dartmouth</span>
+        </td>
+        <td> At the intersection of quantum computing and quantum chemistry </td>
         </tr>
     </tbody>
     </table>
