@@ -336,7 +336,7 @@ We host a weekly seminar on theoretical aspects of quantum science, bringing tog
         </tr>
 
         <tr>
-        <td>Feb. 13, 2026</td>
+        <td>Feb. 3, 2026</td>
         <td>2:00 PM</td>
         <td>Goel 132</td>
         <td>
