@@ -89,6 +89,8 @@ nav_order: 3
   width: 100%;
   border-collapse: collapse;
   font-size: 0.95rem;
+  color: #111;
+  background: transparent;
 }
 
 .seminar-table th {
@@ -96,12 +98,14 @@ nav_order: 3
   padding: 0.75rem;
   border-bottom: 2px solid #222;
   font-weight: 600;
+  color: #111;
 }
 
 .seminar-table td {
   padding: 0.85rem 0.75rem;
   border-bottom: 1px solid #e5e5e5;
   vertical-align: top;
+  color: #111;
 }
 
 .seminar-table td:first-child {
@@ -112,6 +116,16 @@ nav_order: 3
 .seminar-table td:nth-child(2) {
   white-space: nowrap;
   width: 100px;
+}
+
+.seminar-table td a,
+.seminar-table th a {
+  color: inherit;
+}
+
+.seminar-table td a[href],
+.seminar-table th a[href] {
+  color: var(--global-theme-color, #0066cc);
 }
 
 .speaker-affiliation {
