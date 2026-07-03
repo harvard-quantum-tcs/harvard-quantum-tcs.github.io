@@ -33,12 +33,11 @@ subtitle:
        style="width:100%; height:auto;">
 </div>
 
-Welcome! We are an active research group working at the interface of quantum information science, theoretical computer science, and theoretical physics. Based at Harvard University, our group is led by Professors <a href="https://anuraganshu.seas.harvard.edu/" target="_blank">Anurag Anshu</a>, <a href="https://sitanchen.com/" target="_blank">Sitan Chen</a>, and <a href="https://www.physics.harvard.edu/people/facpages/cotler" target="_blank">Jordan Cotler</a>, with affiliations spanning the <a href="https://quantum.harvard.edu/" target="_blank">Harvard Quantum Initiative</a>, the <a href="https://seas.harvard.edu/" target="_blank">Harvard John A. Paulson School of Engineering and Applied Sciences (SEAS)</a>, and the <a href="https://physics.harvard.edu/" target="_blank">Department of Physics</a>.
+Welcome! We are an active interdisciplinary research group at Harvard University, broadly focused on quantum information science and its connections to theoretical computer science and theoretical physics. Our group is led by Professors <a href="https://anuraganshu.seas.harvard.edu/" target="_blank">Anurag Anshu</a>, <a href="https://sitanchen.com/" target="_blank">Sitan Chen</a>, and <a href="https://www.physics.harvard.edu/people/facpages/cotler" target="_blank">Jordan Cotler</a>, with affiliations spanning the <a href="https://quantum.harvard.edu/" target="_blank">Harvard Quantum Initiative</a>, the <a href="https://seas.harvard.edu/" target="_blank">John A. Paulson School of Engineering and Applied Sciences (SEAS)</a>, and the <a href="https://physics.harvard.edu/" target="_blank">Department of Physics</a>.
 
-Our research spans quantum learning, algorithms, complexity theory, quantum information, many-body quantum systems, and mathematical physics, with the goal of advancing the theoretical foundations of quantum science and computation.
+Our current research interests include learning algorithms for quantum systems, Hamiltonian complexity, quantum algorithms, quantum sensing, quantum many-body physics, and related theoretical questions aimed at understanding the quantum world and developing useful quantum technologies.
 
 Learn more about our <a href="/people/"><b>group members</b></a>, and explore our <a href="/seminar/"><b>weekly seminar series</b></a>.
-
 
 
 <h3 style="margin-top: 1em;">Recent News</h3>
