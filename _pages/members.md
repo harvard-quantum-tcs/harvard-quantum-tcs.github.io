@@ -234,7 +234,7 @@ nav_order: 2
       
       <div class="person-card">
         <a href="https://sites.google.com/view/thequynhqb/home" target="_blank">
-          <img src="/assets/img/people/none.jpg" alt="Quynh Nguyen">
+          <img src="/assets/img/people/quynh.jpg" alt="Quynh Nguyen">
         </a>
         <div class="person-name">
           <a href="https://sites.google.com/view/thequynhqb/home" target="_blank">Quynh Nguyen</a>
@@ -270,7 +270,7 @@ nav_order: 2
 
       <div class="person-card">
         <a href="https://sites.google.com/view/yihui-quek/" target="_blank">
-          <img src="/assets/img/people/none.jpg" alt="Yihui Quek">
+          <img src="/assets/img/people/yihui.jpg" alt="Yihui Quek">
         </a>
         <div class="person-name">
           <a href="https://sites.google.com/view/yihui-quek/" target="_blank">Yihui Quek</a>
