@@ -214,7 +214,7 @@ nav_order: 2
 
     <div class="person-card">
       <a href="https://harris-junseo-lee.github.io/" target="_blank">
-        <img src="/assets/img/people/junseo.png" alt="Junseo Lee">
+        <img src="/assets/img/people/junseo.jpg" alt="Junseo Lee">
       </a>
       <div class="person-name">
         <a href="https://harris-junseo-lee.github.io/" target="_blank">Junseo Lee</a>
