@@ -186,7 +186,7 @@ nav_order: 2
       </div>
     </div>
 
-    <!-- <div class="person-card">
+    <div class="person-card">
       <a href="https://scholar.google.com/citations?user=paH03m0AAAAJ&hl=en" target="_blank">
         <img src="/assets/img/people/none.jpg" alt="Ishaan Kannan">
       </a>
@@ -197,7 +197,7 @@ nav_order: 2
         QSE PhD Student<br>
         (2025–)
       </div>
-    </div> -->
+    </div>
 
     <div class="person-card">
       <a href="https://lukecoffman.github.io/" target="_blank">
