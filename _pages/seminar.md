@@ -162,8 +162,42 @@ We host a weekly seminar on theoretical aspects of quantum science, bringing tog
         </tr>
     </thead>
     <tbody>
+        
         <tr>
-        <td>Sep. 21, 2026</td>
+        <td>Nov. 17, 2026</td>
+        <td>2:00 PM</td>
+        <td>TBD</td>
+        <td>
+            <a href="https://www.chaithanyarss.com/" target="_blank">Chaitanya Rayudu</a>
+            <span class="speaker-affiliation">University of New Mexico</span>
+        </td>
+        <td>TBA</td>
+        </tr>
+        
+        <tr>
+        <td>Nov. 3, 2026</td>
+        <td>2:00 PM</td>
+        <td>TBD</td>
+        <td>
+            <a href="https://angusjlowe.github.io/" target="_blank">Angus Lowe</a>
+            <span class="speaker-affiliation">MIT</span>
+        </td>
+        <td>TBA</td>
+        </tr>
+        
+        <tr>
+        <td>Sep. 29, 2026</td>
+        <td>2:00 PM</td>
+        <td>TBD</td>
+        <td>
+            <a href="#" target="_blank">Oren Renard</a>
+            <span class="speaker-affiliation"> </span>
+        </td>
+        <td>TBA</td>
+        </tr>
+        
+        <tr>
+        <td>Sep. 22, 2026</td>
         <td>2:00 PM</td>
         <td>TBD</td>
         <td>
@@ -174,12 +208,34 @@ We host a weekly seminar on theoretical aspects of quantum science, bringing tog
         </tr>
 
         <tr>
+        <td>Sep. 15, 2026</td>
+        <td>2:00 PM</td>
+        <td>TBD</td>
+        <td>
+            <a href="https://norahtan.github.io/" target="_blank">Xinyu (Norah) Tan</a>
+            <span class="speaker-affiliation">MIT</span>
+        </td>
+        <td>TBA</td>
+        </tr>
+        
+        <tr>
+        <td>Sep. 8, 2026</td>
+        <td>2:00 PM</td>
+        <td>TBD</td>
+        <td>
+            <a href="https://scholar.google.com/citations?user=2cu_VL4AAAAJ&hl=en" target="_blank">Varun Upreti</a>
+            <span class="speaker-affiliation">École Normale Supérieure</span>
+        </td>
+        <td>TBA</td>
+        </tr>
+
+        <tr>
         <td>Aug. 18, 2026</td>
         <td>2:00 PM</td>
         <td>TBD</td>
         <td>
             <a href="https://www.cst.cam.ac.uk/people/tg508" target="_blank">Tom Gur</a>
-            <span class="speaker-affiliation">Cambridge</span>
+            <span class="speaker-affiliation">University of Cambridge</span>
         </td>
         <td>TBA</td>
         </tr>
