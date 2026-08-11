@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-07-24T01:38:52+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">blank</title><subtitle></subtitle></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-08-12T01:18:54+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">blank</title><subtitle></subtitle><entry><title type="html">TBD</title><link href="http://localhost:4000/blog/test1" rel="alternate" type="text/html" title="TBD" /><published>2026-08-12T00:00:00+09:00</published><updated>2026-08-12T00:00:00+09:00</updated><id>http://localhost:4000/blog/post1</id><content type="html" xml:base="http://localhost:4000/blog/test1"><![CDATA[<html>
+    <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="" />
+        <link href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&amp;display=swap" rel="stylesheet" />
+        <style>
+            body {
+                font-family: "Roboto Serif", serif;
+                font-optical-sizing: auto;
+                font-weight: 200;
+                font-size: 0.96rem;
+            }
+            strong, b {
+            font-weight: 500;
+            }
+            h1 { font-weight: 350; }
+            h2 { font-weight: 350; }
+            h3 { font-weight: 350; }
+            h4, h5, h6 { font-weight: 350; }
+        </style>
+    </head>
+</html>
+
+<p>This is our first blog post!</p>]]></content><author><name>Ishaan Kannan</name></author><summary type="html"><![CDATA[Written by Ishaan Kannan (Aug. xx, 2026)]]></summary></entry></feed>
