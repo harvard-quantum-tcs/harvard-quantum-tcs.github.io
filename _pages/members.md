@@ -188,7 +188,7 @@ nav_order: 2
 
     <div class="person-card">
       <a href="https://scholar.google.com/citations?user=paH03m0AAAAJ&hl=en" target="_blank">
-        <img src="/assets/img/people/none.jpg" alt="Ishaan Kannan">
+        <img src="/assets/img/people/ishaan.jpg" alt="Ishaan Kannan">
       </a>
       <div class="person-name">
         <a href="https://scholar.google.com/citations?user=paH03m0AAAAJ&hl=en" target="_blank">Ishaan Kannan</a>
