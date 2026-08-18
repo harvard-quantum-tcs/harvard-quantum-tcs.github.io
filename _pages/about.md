@@ -43,5 +43,6 @@ Learn more about our <a href="/people/"><b>group members</b></a>, and explore ou
 <h3 style="margin-top: 1em;">Recent News</h3>
 
 <ul>
+  <li><b>(August 17, 2026)</b> New blog post: <a href="/blog/post_aug_17"><i>Bringing Quantum Advantage to Today's Classical World</i></a>.</li>
   <li><b>(July 3, 2026)</b> Our group website is now live!</li>
 </ul>
