@@ -163,7 +163,7 @@ We host a weekly seminar on theoretical aspects of quantum science, bringing tog
     </thead>
     <tbody>
         
-        <tr>
+        <!-- <tr>
         <td>Nov. 17, 2026</td>
         <td>2:00 PM</td>
         <td>TBD</td>
@@ -227,17 +227,50 @@ We host a weekly seminar on theoretical aspects of quantum science, bringing tog
             <span class="speaker-affiliation">École Normale Supérieure</span>
         </td>
         <td>TBA</td>
-        </tr>
+        </tr> -->
 
+        <tr>
+        <td>Aug. 28, 2026</td>
+        <td>2:00 PM</td>
+        <td>Goel 132</td>
+        <td>
+            <a href="https://www.jacobbeckey.com/" target="_blank">Jacob Beckey</a>
+            <span class="speaker-affiliation">UIUC</span>
+        </td>
+        <td>Beyond Approximate Orthogonality: Tight Bounds for Data Hiding and Property Testing under PPT Measurements</td>
+        </tr>
+        
+        <tr>
+        <td>Aug. 18, 2026</td>
+        <td>3:30 PM</td>
+        <td>Goel 132</td>
+        <td>
+            <a href="https://sites.google.com/site/nengkunyu/" target="_blank">Nengkun Yu</a>
+            <span class="speaker-affiliation">Stony Brook University</span>
+        </td>
+        <td>A The world of Pauli tomography is at your fingertips</td>
+        </tr>
+        
         <tr>
         <td>Aug. 18, 2026</td>
         <td>2:00 PM</td>
-        <td>TBD</td>
+        <td>Goel 132</td>
         <td>
             <a href="https://www.cst.cam.ac.uk/people/tg508" target="_blank">Tom Gur</a>
             <span class="speaker-affiliation">University of Cambridge</span>
         </td>
-        <td>TBA</td>
+        <td>A Quantum Polynomial Freiman-Ruzsa Theorem</td>
+        </tr>
+
+        <tr>
+        <td>Jul. 28, 2026</td>
+        <td>2:00 PM</td>
+        <td>Goel 132</td>
+        <td>
+            <a href="https://sites.google.com/view/jonas-haferkamp/home" target="_blank">Jonas Haferkamp</a>
+            <span class="speaker-affiliation">Ruhr-University Bochum</span>
+        </td>
+        <td>Random quantum circuits</td>
         </tr>
     </tbody>
     </table>

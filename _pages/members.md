@@ -187,11 +187,11 @@ nav_order: 2
     </div>
 
     <div class="person-card">
-      <a href="https://scholar.google.com/citations?user=paH03m0AAAAJ&hl=en" target="_blank">
+      <a href="https://ishaan-kannan.github.io/" target="_blank">
         <img src="/assets/img/people/ishaan.jpg" alt="Ishaan Kannan">
       </a>
       <div class="person-name">
-        <a href="https://scholar.google.com/citations?user=paH03m0AAAAJ&hl=en" target="_blank">Ishaan Kannan</a>
+        <a href="https://ishaan-kannan.github.io/" target="_blank">Ishaan Kannan</a>
       </div>
       <div class="person-affiliation">
         QSE PhD Student<br>
