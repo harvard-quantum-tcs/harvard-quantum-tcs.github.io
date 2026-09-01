@@ -245,11 +245,11 @@ nav_order: 2
       </div>
 
       <div class="person-card">
-        <a href="https://georgeycliu.github.io/" target="_blank">
-          <img src="/assets/img/people/none.jpg" alt="Yunchao Liu">
+        <a href="https://quantum.harvard.edu/people/yunchao-liu" target="_blank">
+          <img src="/assets/img/people/yunchao.jpg" alt="Yunchao Liu">
         </a>
         <div class="person-name">
-          <a href="https://georgeycliu.github.io/" target="_blank">Yunchao Liu</a>
+          <a href="https://quantum.harvard.edu/people/yunchao-liu" target="_blank">Yunchao Liu</a>
         </div>
         <div class="person-affiliation">
           HQI Postdoctoral Fellow (2024–2025), <i>now a research scientist at IBM Research.</i>
