@@ -142,7 +142,7 @@ nav_order: 2
 
     <div class="person-card">
       <a href="https://scholar.google.com/citations?user=mF2irR8AAAAJ&hl=en" target="_blank">
-        <img src="/assets/img/people/liang.jpg" alt="Liang Mao">
+        <img src="/assets/img/people/liang.jpeg" alt="Liang Mao">
       </a>
       <div class="person-name">
         <a href="https://scholar.google.com/citations?user=mF2irR8AAAAJ&hl=en" target="_blank">Liang Mao</a>
