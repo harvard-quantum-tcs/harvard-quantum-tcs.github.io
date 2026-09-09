@@ -172,9 +172,9 @@ We host a weekly seminar on theoretical aspects of quantum science, bringing tog
             <span class="speaker-affiliation">University of New Mexico</span>
         </td>
         <td>TBA</td>
-        </tr>
+        </tr> -->
         
-        <tr>
+        <!-- <tr>
         <td>Nov. 3, 2026</td>
         <td>2:00 PM</td>
         <td>TBD</td>
@@ -183,9 +183,9 @@ We host a weekly seminar on theoretical aspects of quantum science, bringing tog
             <span class="speaker-affiliation">MIT</span>
         </td>
         <td>TBA</td>
-        </tr>
+        </tr> -->
         
-        <tr>
+        <!-- <tr>
         <td>Sep. 29, 2026</td>
         <td>2:00 PM</td>
         <td>TBD</td>
@@ -194,9 +194,9 @@ We host a weekly seminar on theoretical aspects of quantum science, bringing tog
             <span class="speaker-affiliation"> </span>
         </td>
         <td>TBA</td>
-        </tr>
+        </tr> -->
         
-        <tr>
+        <!-- <tr>
         <td>Sep. 22, 2026</td>
         <td>2:00 PM</td>
         <td>TBD</td>
@@ -205,21 +205,10 @@ We host a weekly seminar on theoretical aspects of quantum science, bringing tog
             <span class="speaker-affiliation">MIT</span>
         </td>
         <td>TBA</td>
-        </tr>
-
-        <tr>
-        <td>Sep. 15, 2026</td>
-        <td>2:00 PM</td>
-        <td>TBD</td>
-        <td>
-            <a href="https://norahtan.github.io/" target="_blank">Xinyu (Norah) Tan</a>
-            <span class="speaker-affiliation">MIT</span>
-        </td>
-        <td>TBA</td>
-        </tr>
+        </tr> -->
         
         <tr>
-        <td>Sep. 8, 2026</td>
+        <td>Sep. 15, 2026</td>
         <td>2:00 PM</td>
         <td>TBD</td>
         <td>
@@ -227,7 +216,18 @@ We host a weekly seminar on theoretical aspects of quantum science, bringing tog
             <span class="speaker-affiliation">École Normale Supérieure</span>
         </td>
         <td>TBA</td>
-        </tr> -->
+        </tr>
+
+        <tr>
+        <td>Sep. 8, 2026</td>
+        <td>2:00 PM</td>
+        <td>Goel 132</td>
+        <td>
+            <a href="https://norahtan.github.io/" target="_blank">Xinyu (Norah) Tan</a>
+            <span class="speaker-affiliation">MIT</span>
+        </td>
+        <td>Random dimension reduction and learning symmetric properties of quantum states</td>
+        </tr>
 
         <tr>
         <td>Aug. 28, 2026</td>
