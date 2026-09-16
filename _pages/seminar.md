@@ -196,7 +196,7 @@ We host a weekly seminar on theoretical aspects of quantum science, bringing tog
         <td>TBA</td>
         </tr> -->
         
-        <!-- <tr>
+        <tr>
         <td>Sep. 22, 2026</td>
         <td>2:00 PM</td>
         <td>TBD</td>
@@ -205,7 +205,7 @@ We host a weekly seminar on theoretical aspects of quantum science, bringing tog
             <span class="speaker-affiliation">MIT</span>
         </td>
         <td>TBA</td>
-        </tr> -->
+        </tr>
         
         <tr>
         <td>Sep. 15, 2026</td>
@@ -215,7 +215,7 @@ We host a weekly seminar on theoretical aspects of quantum science, bringing tog
             <a href="https://scholar.google.com/citations?user=2cu_VL4AAAAJ&hl=en" target="_blank">Varun Upreti</a>
             <span class="speaker-affiliation">École Normale Supérieure</span>
         </td>
-        <td>TBA</td>
+        <td>Bounding the computational power of bosonic systems</td>
         </tr>
 
         <tr>
