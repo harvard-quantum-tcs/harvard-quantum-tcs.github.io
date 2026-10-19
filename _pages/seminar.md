@@ -185,32 +185,76 @@ We host a weekly seminar on theoretical aspects of quantum science, bringing tog
         <td>TBA</td>
         </tr> -->
         
-        <!-- <tr>
+        <tr>
+        <td>Oct. 20, 2026</td>
+        <td>2:00 PM</td>
+        <td>Goel 132</td>
+        <td>
+            <a href="https://luongo.pro/" target="_blank">Alessandro Luongo</a>
+            <span class="speaker-affiliation">Centre for Quantum Technologies, NUS</span>
+        </td>
+        <td>Shallow Circuits, Broad Implications</td>
+        </tr>
+        
+        <tr>
+        <td>Oct. 13, 2026</td>
+        <td>2:00 PM</td>
+        <td>Ory Forum</td>
+        <td>
+            <a href="#" target="_blank">Louis Schatzki</a>
+            <span class="speaker-affiliation">IBM</span>
+        </td>
+        <td>Optimal Stabilizer Testing and Learning with Limited Quantum Memory</td>
+        </tr>
+        
+        <tr>
+        <td>Oct. 13, 2026</td>
+        <td>1:00 PM</td>
+        <td>Ory Forum</td>
+        <td>
+            <a href="#" target="_blank">Armando Bellante</a>
+            <span class="speaker-affiliation">Max Planck Institute</span>
+        </td>
+        <td>The power of oracle access: Optimal sample and query complexity of the abelian state hidden subgroup problem</td>
+        </tr>
+        
+        <tr>
+        <td>Oct. 6, 2026</td>
+        <td>2:00 PM</td>
+        <td>Goel 132</td>
+        <td>
+            <a href="https://quantumsteampunk.umiacs.io/people/twesh-upadhyaya/" target="_blank">Twesh Upadhyay</a>
+            <span class="speaker-affiliation">University of Maryland</span>
+        </td>
+        <td>Robustness-Runtime Tradeoff for Quantum State Transfer</td>
+        </tr>
+        
+        <tr>
         <td>Sep. 29, 2026</td>
         <td>2:00 PM</td>
-        <td>TBD</td>
+        <td>Goel 132</td>
         <td>
             <a href="#" target="_blank">Oren Renard</a>
-            <span class="speaker-affiliation"> </span>
+            <span class="speaker-affiliation">Cornell</span>
         </td>
-        <td>TBA</td>
-        </tr> -->
+        <td>Frustration Free Stoquastic Local Hamiltonian with subconstant gap is in NP</td>
+        </tr>
         
         <tr>
         <td>Sep. 22, 2026</td>
         <td>2:00 PM</td>
-        <td>TBD</td>
+        <td>Goel 132</td>
         <td>
             <a href="https://www.mit.edu/~ladmon/" target="_blank">Zhaoyi Li</a>
             <span class="speaker-affiliation">MIT</span>
         </td>
-        <td>TBA</td>
+        <td>Coherent Quantum Inference and Sample-Complexity Advantages from Quantum Purity Amplification</td>
         </tr>
         
         <tr>
         <td>Sep. 15, 2026</td>
         <td>2:00 PM</td>
-        <td>TBD</td>
+        <td>Goel 418</td>
         <td>
             <a href="https://scholar.google.com/citations?user=2cu_VL4AAAAJ&hl=en" target="_blank">Varun Upreti</a>
             <span class="speaker-affiliation">École Normale Supérieure</span>
