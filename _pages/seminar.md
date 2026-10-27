@@ -186,6 +186,18 @@ We host a weekly seminar on theoretical aspects of quantum science, bringing tog
         </tr> -->
         
         <tr>
+        <td>Oct. 27, 2026</td>
+        <td>2:00 PM</td>
+        <td>Goel 132</td>
+        <td>
+            <a href="https://hwangy.github.io/" target="_blank">Yeongwoo Hwang</a>
+            <span class="speaker-affiliation">Harvard</span>
+        </td>
+        <td>The power of unentanglement in quantum protocols</td>
+        </tr>
+        
+        
+        <tr>
         <td>Oct. 20, 2026</td>
         <td>2:00 PM</td>
         <td>Goel 132</td>
