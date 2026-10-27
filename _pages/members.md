@@ -237,7 +237,7 @@ nav_order: 2
           <img src="/assets/img/people/quynh.jpg" alt="Quynh Nguyen">
         </a>
         <div class="person-name">
-          <a href="https://sites.google.com/view/thequynhqb/home" target="_blank">Quynh Nguyen</a>
+          <a href="https://sites.google.com/view/thequynhqb/home" target="_blank">Quynh T. Nguyen</a>
         </div>
         <div class="person-affiliation">
           QSE PhD (2022–2026), <i>Now: Postdoc at the Simons Institute, UC Berkeley.</i>
